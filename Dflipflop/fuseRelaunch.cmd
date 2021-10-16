@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/14.7/Projects/Dflipflop/vhdlDff_isim_beh.exe" -prj "C:/Xilinx/14.7/Projects/Dflipflop/vhdlDff_beh.prj" "work.vhdlDff" 
